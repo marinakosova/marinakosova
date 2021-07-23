@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Marina
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Javascript, Typescript and ReactJS
-- 📫 How to reach me -> Skype: marina.kosova, Email: marina.kosova@gmail.com
+- 🌱 I’m currently learning Javascript algorithms and ReactJS
+- 📫 How to reach me -> Skype: marina.kosova, Email: marina.kosova@gmail.com, Linkedin: www.linkedin.com/in/maryna-kosau/
